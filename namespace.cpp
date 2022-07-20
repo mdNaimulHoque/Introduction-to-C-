@@ -18,7 +18,7 @@ namespace two
 }
 
 using namespace one;
-// using namespace two;
+using namespace two;
 int main()
 {
     fun();
